@@ -1,0 +1,7 @@
+POST vai no corpo do HTTP, não aparece na url
+GET vai aparecer na url
+
+
+
+
+
